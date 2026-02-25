@@ -93,7 +93,10 @@ npm run build
 
 This project is licensed under the MIT License. Feel free to use it for personal or commercial projects.
 
+
 ---
+Project live:
+https://nexus-ai-project.vercel.app/
 
 **Developed with ❤️ by [Md Shahadat Hossain**](https://www.google.com/search?q=https://github.com/mdshahadathossainit)
 
