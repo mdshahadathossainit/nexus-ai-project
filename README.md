@@ -3,6 +3,16 @@
 NexusAI is a high-converting, modern landing page built with **React** and **Tailwind CSS**. It features a dark-themed UI with glassmorphism effects, neon accents, and smooth animations, designed specifically for an AI Productivity Tool.
 
 ---
+Project live:
+https://nexus-ai-project.vercel.app/
+
+---
+ 🤖 [Nexus-AI](https://github.com/mdshahadathossainit/nexus-ai-project)
+<p align="center">
+  <img src="https://i.imgur.com/VAARfpy.png" width="850" alt="Nexus AI Dashboard"/>
+  <br><br>
+  <img src="https://i.imgur.com/REn7WPn.png" width="850" alt="Nexus AI Chat Interface"/>
+</p>
 
 ## 🚀 Key Features
 
@@ -95,8 +105,7 @@ This project is licensed under the MIT License. Feel free to use it for personal
 
 
 ---
-Project live:
-https://nexus-ai-project.vercel.app/
+
 
 **Developed with ❤️ by [Md Shahadat Hossain**](https://www.google.com/search?q=https://github.com/mdshahadathossainit)
 
